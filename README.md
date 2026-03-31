@@ -53,3 +53,23 @@ Bao gồm hướng dẫn về:
 ```bash
 cp -r skills/mbfs-aiteam-be/ <project>/.claude/skills/mbfs-aiteam-be/
 ```
+
+---
+
+### `henry-mindset-code` — Engineering Mindset
+
+Mindset và nguyên tắc tư duy dùng chung cho mọi dự án. Áp dụng khi phân tích yêu cầu, ra quyết định kỹ thuật, debug, và tiếp cận bất kỳ task nào.
+
+Bao gồm:
+- Think Before Code
+- Keep It Simple (KISS)
+- Iterative Approach
+- Understand the Context
+- Trade-off Thinking
+- Ownership & Craftsmanship
+- Debug Systematically
+- Communication First
+
+```bash
+cp -r skills/henry-mindset-code/ <project>/.claude/skills/henry-mindset-code/
+```
