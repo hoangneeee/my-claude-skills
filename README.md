@@ -73,3 +73,22 @@ Bao gồm:
 ```bash
 cp -r skills/henry-mindset-code/ <project>/.claude/skills/henry-mindset-code/
 ```
+
+---
+
+### `release-management` — Release Management
+
+Quản lý release cho mọi dự án với git tags, release branches, và semantic versioning. Hỗ trợ đa ngôn ngữ: Rust, Node.js, Python, Go.
+
+Bao gồm:
+- Branching model (develop → release/X.Y.x → tags)
+- Semantic Versioning rules
+- Auto-detect project type và version
+- Create release workflow
+- Hotfix workflow
+- Multi-customer deployment guide
+- Safety checks
+
+```bash
+cp -r skills/release-management/ <project>/.claude/skills/release-management/
+```
